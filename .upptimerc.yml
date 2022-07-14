@@ -20,14 +20,22 @@ status-website:
     - rel: stylesheet
       href: https://status.cloudment.net/main.css
   logoUrl: https://status.cloudment.net/logo.png
+  favicon: https://status.cloudment.net/favicon.ico
   name: Cloudment
   introTitle: "**Cloudment Status** is the live system status of Cloudment's global edge network."
-  introMessage: This is Cloudment's status page which uses **real-time** data from our [GitHub repository](https://github.com/Cloudment/cloudment.github.io).
+  introMessage: This is our status page that uses **real-time** machine status data from Github Pages.
+  metaTags:
+    - property: "og:title"
+      content: "Cloudment Status"
+    - property: "og:image"
+      content: "https://status.cloudment.net/logo.png"
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Support
+      href: https://my.cloudment.net
+    - title: Discord
+      href: https://discord.cloudment.net
 
 i18n:
   footer: Copyright ©2022 All rights reserved [Cloudment](https://cloudment.net)
