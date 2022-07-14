@@ -21,7 +21,7 @@ status-website:
       href: https://status.cloudment.net/main.css
   logoUrl: https://status.cloudment.net/logo.png
   name: Cloudment
-  introTitle: "**Cloudment Status** is the open-source uptime monitor and status page, powered by GitHub Pages."
+  introTitle: "**Cloudment Status** is the live system status of Cloudment's global edge network."
   introMessage: This is Cloudment's status page which uses **real-time** data from our [GitHub repository](https://github.com/Cloudment/cloudment.github.io).
   navbar:
     - title: Status
