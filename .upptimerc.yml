@@ -1,6 +1,10 @@
-# Change these first
-owner: Cloudment # Your GitHub organization or username, where this repository lives
-repo: cloudment.github.io # The name of this repository
+owner: Cloudment
+
+assignees:
+  - Zinidia
+  - JakesFate
+
+repo: cloudment.github.io
 
 sites:
   - name: Cloudment Home
@@ -12,8 +16,9 @@ sites:
 
 status-website:
   cname: status.cloudment.net
-  themeUrl: https://status.cloudment.net/main.css
-  # baseUrl: /your-repo-name
+  links:
+    - rel: stylesheet
+      href: https://status.cloudment.net/main.css
   logoUrl: https://status.cloudment.net/logo.png
   name: Cloudment
   introTitle: "**Cloudment Status** is the open-source uptime monitor and status page, powered by GitHub Pages."
@@ -23,3 +28,18 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+i18n:
+  footer: Copyright ©2022 All rights reserved [Cloudment](https://cloudment.net)
+
+commitMessages:
+  commitAuthorName: "Uptime Bot"
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "* * * * *"
