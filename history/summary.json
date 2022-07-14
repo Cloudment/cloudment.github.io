@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/cloudment.net",
     "slug": "cloudment-home",
     "status": "down",
-    "uptime": "4.85%",
-    "uptimeDay": "4.85%",
-    "uptimeWeek": "4.85%",
-    "uptimeMonth": "4.85%",
-    "uptimeYear": "4.85%",
-    "time": 98,
-    "timeDay": 98,
-    "timeWeek": 98,
-    "timeMonth": 98,
-    "timeYear": 98,
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 97,
+    "timeDay": 97,
+    "timeWeek": 97,
+    "timeMonth": 97,
+    "timeYear": 97,
     "dailyMinutesDown": {
-      "2022-07-14": 0
+      "2022-07-14": 25
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/my.cloudment.net",
     "slug": "cloudment-billing",
     "status": "down",
-    "uptime": "7.63%",
-    "uptimeDay": "7.63%",
-    "uptimeWeek": "7.63%",
-    "uptimeMonth": "7.63%",
-    "uptimeYear": "7.63%",
-    "time": 86,
-    "timeDay": 86,
-    "timeWeek": 86,
-    "timeMonth": 86,
-    "timeYear": 86,
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
+    "time": 88,
+    "timeDay": 88,
+    "timeWeek": 88,
+    "timeMonth": 88,
+    "timeYear": 88,
     "dailyMinutesDown": {
-      "2022-07-14": 0
+      "2022-07-14": 25
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/cmt.gg",
     "slug": "cloudment-dashboard",
     "status": "down",
-    "uptime": "10.72%",
-    "uptimeDay": "10.72%",
-    "uptimeWeek": "10.72%",
-    "uptimeMonth": "10.72%",
-    "uptimeYear": "10.72%",
-    "time": 186,
-    "timeDay": 186,
-    "timeWeek": 186,
-    "timeMonth": 186,
-    "timeYear": 186,
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
+    "time": 159,
+    "timeDay": 159,
+    "timeWeek": 159,
+    "timeMonth": 159,
+    "timeYear": 159,
     "dailyMinutesDown": {
-      "2022-07-14": 0
+      "2022-07-14": 25
     }
   }
 ]
