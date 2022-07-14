@@ -1,2 +1,2 @@
-# cloudment.github.io
-Cloudment Status page powered by Github Pages and Upptime
+# Cloudment Status
+Cloudment status page powered by Github Pages
