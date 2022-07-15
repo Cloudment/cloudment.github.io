@@ -16,7 +16,9 @@ sites:
 
 status-website:
   cname: status.cloudment.net
-  themeUrl: https://status.cloudment.net/main.css
+  links:
+    - rel: stylesheet
+      href: https://cdn.cloudment.net/css/status.css
   logoUrl: https://status.cloudment.net/logo.png
   favicon: https://status.cloudment.net/favicon.ico
   name: Cloudment
