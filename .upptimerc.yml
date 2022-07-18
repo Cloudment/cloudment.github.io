@@ -19,8 +19,8 @@ status-website:
   links:
     - rel: stylesheet
       href: https://cdn.cloudment.net/css/status.css
-  logoUrl: https://status.cloudment.net/logo.png
-  favicon: https://status.cloudment.net/favicon.ico
+  logoUrl: https://cdn.cloudment.net/images/logo.png
+  favicon: https://cdn.cloudment.net/favicon.ico
   name: Cloudment
   introTitle: "**Cloudment Status** is the live system status of Cloudment's global edge network."
   introMessage: This is our status page that uses **real-time** machine status data from Github Pages.
@@ -28,7 +28,7 @@ status-website:
     - property: "og:title"
       content: "Cloudment Status"
     - property: "og:image"
-      content: "https://status.cloudment.net/logo.png"
+      content: "https://cdn.cloudment.net/images/logo.png"
   navbar:
     - title: Status
       href: /
